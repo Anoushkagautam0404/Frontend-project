@@ -1,1 +1,1 @@
-# This is the only fronend project
+# This is only a frontend project
